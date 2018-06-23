@@ -1,0 +1,25 @@
+{
+  "basics":{
+    "name":"Nikhita Nelavalli",
+    "Email":"nikhitanelavalli1997@gmail.com",
+    "mobile":"+91-9999955555"
+
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "Institute":"PSCMRCET",
+      "data":["2015-19","83%"]
+    },
+    {
+      "degree":"Intermediate",
+      "Institute":"Siddartha College",
+      "data":["2013-15","87.9%"]
+    },
+    {
+      "degree":"S.S.C",
+      "Institute":"Gayatri Vidyalayam",
+      "data":["2013","8.3"]
+    }
+  ]
+}
