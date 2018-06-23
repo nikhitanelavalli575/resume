@@ -27,9 +27,23 @@ function fun_education(edu){
   //lis.hconte="educational qualifications";
 var list=document.createElement("ul");
 div2.appendChild(list);
+
 for(var i=0;i<edu.length;i++){
   var listItem=document.createElement("li");
+
   listItem.textContent=edu[i].degree;
   list.appendChild(listItem);
+
+  var listItem2=document.createElement("ul");
+  listItem2.textContent=edu[i].Institute;
+  list.appendChild(listItem2);
+
+  var listItem3=document.createElement("ul");
+  listItem3.textContent=edu[i].data;
+  list.appendChild(listItem3);
+
+
+
+
 }
 }
