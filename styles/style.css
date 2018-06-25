@@ -1,3 +1,17 @@
+table{
+  width:90%;
+  box-shadow:3px 3px 3px #ddd;
+}
+td{
+  padding:1%;
+}
+tr:nth-child(even){
+  background:#ddd;
+}
+}
+
+
+
 a{
   text-decoration:none;
   }
@@ -13,6 +27,7 @@ a{
   box-shadow:3px 3px 3px #000;
   padding:2%;
   margin:2%;
+  background-color: #00FFFF;
 }
 .child2{
   max-width:70%;
@@ -21,6 +36,7 @@ a{
       box-shadow:3px 3px 3px #000;
   padding:2%;
   margin:2%;
+
 
 }
 

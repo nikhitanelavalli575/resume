@@ -99,4 +99,6 @@ function fun_tech(skills)
     tr+="<tr><td>"+skills[i].name+"</td><td>"+skills[i].Data+"</td></tr>"
   }
   table.innerHTML=tr;
+  table.border=1;
+
 }
