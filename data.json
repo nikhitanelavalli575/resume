@@ -5,6 +5,9 @@
     "mobile":"+91-9999955555"
 
   },
+  "CareerObjective":{
+    "info":"To build a challenging career with honesty and loyalty by translating my experience, knowledge, skills and abilities into value for an organization."
+  },
   "education":[
     {
       "degree":"B-Tech",
@@ -20,6 +23,35 @@
       "degree":"S.S.C",
       "Institute":"Gayatri Vidyalayam",
       "data":["2013","8.3"]
+    }
+  ],
+  "Achievments":[
+    {
+      "name":"Awarded as <b>2<sup>nd</sup>prize</b> in quiz program "
+    },
+    {
+        "name":"Awarded as <b>1<sup>st</sup>prize</b> in ppt presentation "
+    }
+
+
+
+  ],
+  "TechnicalSkills":[
+    {
+      "name":"ProgrammingLanguages",
+      "Data":["C","C++","Java","Python"]
+    },
+    {
+      "name":"DataBases",
+      "Data":["mySql","Oracle"]
+    },
+    {
+      "name":"WebTechnologies",
+      "Data":["CSS","PHP","javascript","HTML"]
+    },
+    {
+      "name":"Libraries and Frameworks",
+      "Data":["jQuery","codeIgniter"]
     }
   ]
 }
